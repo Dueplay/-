@@ -1,0 +1,4 @@
+date:1 interval:1 stuId:101 stuName:郭先俊 roomId:1 status:2
+date:2 interval:2 stuId:101 stuName:郭先俊 roomId:3 status:1
+date:3 interval:1 stuId:102 stuName:王思淇 roomId:2 status:0
+date:4 interval:1 stuId:1 stuName:gxj roomId:3 status:0
